@@ -17,3 +17,44 @@ By default, the weather app should display the current weather data for Toronto.
 - When displaying weather history records, the application should aim to do so within 1 second and limit the retrieval of records to the 10 most recent at a time.
 - To ensure security, the application should use a token mechanism to authenticate and authorize user access.
 - Sensitive user data, such as passwords, should also be encrypted to provide additional protection against unauthorized access.
+
+## Feature Branch ? 
+- SignUp, Register, Thanks for signing up
+
+![alt text](misc/Figma/image.png)
+![alt text](misc/Figma/image-3.png)
+
+- SignIn Feature
+
+
+![alt text](misc/Figma/image-1.png)
+
+-Forget Password, Reset Account Password
+
+![alt text](misc/Figma/image-2.png)
+![alt text](misc/Figma/image-4.png)
+
+- Logout 
+
+- Weather App display (temp, wind speed, etc); City
+
+![alt text](misc/Figma/image-5.png)
+![alt text](misc/Figma/image-6.png)
+![alt text](misc/Figma/image-8.png)
+
+- Weather search history
+
+![alt text](misc/Figma/image-9.png)
+
+## MVP 2.0 (Roadmap)
+**Stage 2** : Backend API Development with Java Spring BootIn this stage, you'll use Java Spring Boot to make the backend of the app. You'll implement logic for features including user registration, email verification, user login, password reset, getting weather data, and pulling up weather search history.
+
+**Stage 3**: Frontend Development with ReactNext, you'll use React to make a fun and interactive user interface. You'll make a frontend that lets users sign up, log in, search for weather info, and look at their past searches.
+
+**Stage 4**: Rigorous Testing with an Arsenal of ToolsTesting is an integral part of software development, ensuring that your application functions as expected and helping you identify and fix bugs. In this stage, you'll be working with a suite of testing tools, each with its unique advantages:
+
+- JUnit: This tool is excellent for writing repeatable tests, especially unit tests, in Java.
+- Selenium: Selenium is your go-to tool for automating browser tasks, making it perfect for testing web applications.
+- Cucumber: Cucumber supports behaviour-driven development (BDD), allowing you to write software behaviour specifications in logical language.
+- RestAssured: A Java library that simplifies writing powerful and maintainable tests for RESTful APIs.
+- Allure: Allure is a flexible test report tool, known for creating visually appealing reports. It also allows for adding descriptions and comments to your tests.
