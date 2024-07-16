@@ -17,3 +17,30 @@ By default, the weather app should display the current weather data for Toronto.
 - When displaying weather history records, the application should aim to do so within 1 second and limit the retrieval of records to the 10 most recent at a time.
 - To ensure security, the application should use a token mechanism to authenticate and authorize user access.
 - Sensitive user data, such as passwords, should also be encrypted to provide additional protection against unauthorized access.
+
+## Feature Branch ? 
+- SignUp, Register, Thanks for signing up
+
+![alt text](misc/Figma/image.png)
+![alt text](misc/Figma/image-3.png)
+
+- SignIn Feature
+
+![alt text](misc/Figma/image-1.png)
+
+-Forget Password, Reset Account Password
+
+![alt text](misc/Figma/image-2.png)
+![alt text](misc/Figma/image-4.png)
+
+- Logout 
+
+- Weather App display (temp, wind speed, etc); City
+
+![alt text](misc/Figma/image-5.png)
+![alt text](misc/Figma/image-6.png)
+![alt text](misc/Figma/image-8.png)
+
+- Weather search history
+
+![alt text](misc/Figma/image-9.png)
