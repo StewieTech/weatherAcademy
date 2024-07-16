@@ -44,3 +44,16 @@ By default, the weather app should display the current weather data for Toronto.
 - Weather search history
 
 ![alt text](misc/Figma/image-9.png)
+
+## MVP 2.0 (Roadmap)
+**Stage 2** : Backend API Development with Java Spring BootIn this stage, you'll use Java Spring Boot to make the backend of the app. You'll implement logic for features including user registration, email verification, user login, password reset, getting weather data, and pulling up weather search history.
+
+**Stage 3**: Frontend Development with ReactNext, you'll use React to make a fun and interactive user interface. You'll make a frontend that lets users sign up, log in, search for weather info, and look at their past searches.
+
+**Stage 4**: Rigorous Testing with an Arsenal of ToolsTesting is an integral part of software development, ensuring that your application functions as expected and helping you identify and fix bugs. In this stage, you'll be working with a suite of testing tools, each with its unique advantages:
+
+- JUnit: This tool is excellent for writing repeatable tests, especially unit tests, in Java.
+- Selenium: Selenium is your go-to tool for automating browser tasks, making it perfect for testing web applications.
+- Cucumber: Cucumber supports behaviour-driven development (BDD), allowing you to write software behaviour specifications in logical language.
+- RestAssured: A Java library that simplifies writing powerful and maintainable tests for RESTful APIs.
+- Allure: Allure is a flexible test report tool, known for creating visually appealing reports. It also allows for adding descriptions and comments to your tests.
