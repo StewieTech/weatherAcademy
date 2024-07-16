@@ -26,6 +26,7 @@ By default, the weather app should display the current weather data for Toronto.
 
 - SignIn Feature
 
+
 ![alt text](misc/Figma/image-1.png)
 
 -Forget Password, Reset Account Password
