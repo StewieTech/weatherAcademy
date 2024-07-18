@@ -1,0 +1,5 @@
+/target/
+.env
+.metadata/
+.metadata/.plugins/
+.metadata/.plugins/org.eclipse.core.resources/
